@@ -132,14 +132,13 @@
     "dropped": [
     ],
     "sessions": [
-      
     ],
     "projects": [
       {
         "slug" : "general-references",
         "name" : "General References",
-        "start" : "2022-01-19",
-        "end" : "2022-01-19",
+        "start" : "2024-01-17",
+        "end" : "2024-01-17",
         "hidden": false,
         "description" : "Some links and references you may find useful.",
         "references" : [
@@ -168,16 +167,16 @@
       {
         "slug" : "bike-finder",
         "name" : "Bike Finder",
-        "start" : "2022-01-19",
-        "end" : "2022-03-02",
+        "start" : "2024-01-17",
+        "end" : "2024-03-06",
         "hidden": false,
-        "description" : "<p>You will conceive and prototype an interface for finding and selecting a bicycle to purchase from on online store.</p><p>From one perspective, this is very straightforward: we've all used online stores to find and buy things. From another perspective, you'll discover a multitude of decisions you must make as a designer in order to accomplish the task. Among other things, you'll need to ask:</p><ul><li>Who are my stakeholders?</li><li>What are they trying to accomplish?</li><li>What do they already know?</li><li>What do they need to know?</li><li>What do they care about?</li><li>What constitutes success?</li></ul><p>This project is not about inventing something new, or making something beautiful. Rather, it is about recognizing and applying what's appropriate, and making something that <em>works well</em> for the people using it. The most successful solutions will likely be largely transparent to the user's conscious mind.</p><p>The final product of the project will be a clickable html prototype that allows you to demonstrate your solution. It will <em>not</em> include the check-out process, nor parts of the site un-related to the process of selecting a bicycle. It will not include any 'real' programming, or dynamic data. For instance, you should not attempt to make a 'search' feature actually search. It <em>will</em> include everything necessary to clearly <em>convey</em> how the interface will work. Therefore, a search button <em>should</em> take us to a view that looks like search results.</p>",
+        "description" : "<p>You will conceive and prototype an interface for finding and selecting a bicycle to purchase from on online store.</p><p>From one perspective, this is very straightforward: we've all used online stores to find and buy things. From another perspective, you'll discover a multitude of decisions you must make as a designer in order to accomplish the task. Among other things, you'll need to ask:</p><ul><li>Who are my stakeholders?</li><li>What are they trying to accomplish?</li><li>What do they already know?</li><li>What do they need to know?</li><li>What do they care about?</li><li>What constitutes success?</li></ul><p>This project is not about inventing something new, or making something beautiful. Rather, it is about recognizing and applying what's appropriate, and making something that <em>works well</em> for the people using it. The most successful solutions will likely be largely transparent to the user's conscious mind.</p><p>The final product of the project will be a clickable prototype that allows you to demonstrate your solution. It will <em>not</em> include the check-out process, nor parts of the site unrelated to the process of selecting a bicycle. It will not include any 'real' programming, or dynamic data. For instance, you should not attempt to make a 'search' feature actually search. It <em>will</em> include everything necessary to clearly <em>convey</em> how the interface will work. Therefore, a search button <em>should</em> take us to a view that looks like search results.</p>",
         "deliverables" : [
           {
             "slug" : "research-ui-conventions",
             "name" : "Research: UI Conventions",
-            "assigned" : "2022-01-19",
-            "due" : "2022-01-24T16:00:00.000",
+            "assigned" : "2024-01-17",
+            "due" : "2024-01-22",
             "hidden": false,
             "file" : "index.html",
             "description" : "<p>You probably have plenty of experience as an online shopper, and the user-interface conventions used by online stores probably feel very familiar to you. But have you ever taken the time to identify them? Let's do some shopping for various items, with an eye focused on UI. We'll make some observations and see what patterns emerge.</p>",
@@ -186,8 +185,8 @@
           {
             "slug" : "research-product-knowledge",
             "name" : "Product Knowledge",
-            "assigned" : "2022-01-19",
-            "due" : "2022-01-24T17:00:00.000",
+            "assigned" : "2024-01-17",
+            "due" : "2024-01-22",
             "hidden": false,
             "file" : "index.html",
             "description" : "<p>If we're going to sell bikes, we need to know about them and how people use them. So let's do some product and user research. Some things we might care about:</p><ul><li>The physical product (materials, options, specifications)</li><li>Product variations (sizes, types and purposes, quality range, performance range, price range, brands)</li><li>Bike users (demographics, purpose, frequency of use, motivators)</li><li>The buying experience (Where bikes are sold, by whom, purchase considerations)</li></ul><p>Sources for this information might include:</p><ul><li>Your own experience/knowledge</li><li>Your friends/peers experience/knowledge</li><li>Online stores</li><li>Local bike shops</li><li>Online groups (clubs, forums, social media)</li><li>Other online buyer's guides</li></ul><p>Finally, just like you did in your general UI research, 'buy' a bike at a few different online retailers. For now, focus on what YOU would want if you were actually buying a bike for yourself today. What would you use it for? What features do you care about? How will you know if it fits you? How will you select a brand and price point?",
@@ -196,9 +195,9 @@
           {
             "slug" : "personas",
             "name" : "Personas",
-            "assigned" : "2022-01-26",
-            "due" : "2022-01-26 (In Class)",
-            "hidden": false,
+            "assigned" : "2024-01-24",
+            "due" : "2024-01-24 (In Class)",
+            "hidden": true,
             "description" : "<p>Define and document a persona with your group.</p>",
             "instructions" : "<p>With your group, copy the persona template we've created together, and flesh out your assigned persona. Be sure to include the elements of a persona as we defined them in class. This is not just about collecting words together – it is about imagining a person, empathizing with them, and making them feel human. It requires imagination and writing skill to fill in the gaps so the rest of us will understand who this person is! Create/edit the persona in the Google Doc referenced below.</p>",
             "references" : [
@@ -212,15 +211,15 @@
           {
             "slug" : "user-stories-existing-site",
             "name" : "User Stories - Existing Site",
-            "assigned" : "2022-01-26",
-            "due" : "2022-02-02",
-            "hidden": false,
+            "assigned" : "2024-01-24",
+            "due" : "2024-01-29",
+            "hidden": true,
             "description" : "<p>Embody the person your team created, and write user stories describing their experience on a real website.</p>",
             "instructions" : "<p>Select a real website for purchasing a bicycle, then 'be' the persona your team defined as you go through the purchasing process once again. Break the process down into a series of small, discrete objectives, following the <a href=\"https://www.google.com/search?q=user+story\" target=\"_blank\">User Story</a> pattern: <strong>\"As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;.\"</strong> Add your user stories to our persona collaboration document.</p>",
             "references" : [
               {
                 "name" : "QuickCycle Persona Collaboration",
-                "link" : "https://docs.google.com/document/d/1yrgExhI2z5P_RhQVAvqA7SeQ2gRJW8g502ho4ZuXuLA/edit?usp=sharing",
+                "link" : "#",
                 "description" : "We'll collaborate within this document to create our personas and user stories for the project."
               }
             ]
@@ -228,9 +227,9 @@
           {
             "slug" : "feature-organization",
             "name" : "Feature Organization",
-            "assigned" : "2022-01-26",
-            "due" : "2022-02-02",
-            "hidden": false,
+            "assigned" : "2024-01-24",
+            "due" : "2024-01-29",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Using ALL of the personas and user-stories we've collective written as reference, create a document that organizes <em>your</em> ideas about what solutions you propose to use, and how they'll fit together into a complete experience.</p>",
             "instructions" : "<ol><li>Read through the user-stories gathered in our previous deliverable. If you choose, make your own copy of the personas and user-stories, and consolidate/organize further than we have in class.</li><li>Identify possible UI solutions to address the stories. Not necessarily 1-for-1, just let the stories suggest ideas for components. A menu. A big photo. A search bar. An expanding drawer. Sometimes a single component such as a checkbox is enough. Sometimes you may end up with a set of components that work together, such as a search-field, search button, and results list. Keep an eye out for solutions that address more than one story/need, or that can be enhanced to address additional needs. For instance, a basic search bar might be enhanced with an 'auto-suggest' feature.</li><li>Organize your solutions into pages, or views. What views need to exist? What responsibilities does each view have?</li><li>Format your decisions in a document (or set of documents) that conveys as much as possible about your decisions, with as little effort as possible. The idea is to communicate a plan that's both easy to follow, and easy to change.</li></ol>"
@@ -238,9 +237,9 @@
           {
             "slug" : "lofi-wireframes",
             "name" : "Low-Fidelity Wireframes",
-            "assigned" : "2022-02-02",
-            "due" : "2022-02-07",
-            "hidden": false,
+            "assigned" : "2024-02-02",
+            "due" : "2024-02-07",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create low-fidelity wireframes that visualize your proposed layout.</p>",
             "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? <!--Use <code>deliverable.json</code> to upload multiple versions as needed.</p><p><strong>UPDATED REQUIREMENT (2018-02-05): Iterate and update per the <a href=\"https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing\" target=\"_blank\">in-class guidance</a>.</strong></p>-->",
@@ -260,9 +259,9 @@
           {
             "slug" : "lofi-wireframes-testing-notes",
             "name" : "Low-Fidelity Wireframes - Testing",
-            "assigned" : "2022-02-09",
-            "due" : "2022-02-14",
-            "hidden": false,
+            "assigned" : "2024-02-09",
+            "due" : "2024-02-14",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>In class we will break into pairs and test each others' wireframes against randomly-selected user-stories.</p><p>As the <strong><em>TESTER</em></strong>, you will select a persona and user-story, and describe what you are seeing/thinking as you attempt to complete the objective posed by that story. You will <em>not</em> provide evaluative feedback, you will <em>just describe what you are doing as you do it.</em></p><p>As the <strong><em>OBSERVER</em></strong>, you will observe and take notes. You will <em>not</em> describe your intent, explain what anything represents, provide any hints, etc. You will ONLY, if asked, describe the objective result of an action: e.g: 'Since you clicked on that button, you would now see the view represented in the second image.'</p><p>Our objective not to defend choices as the UX designer, nor evaluate them as the tester. Rather, we are attempting to provide/observe an unbiased, uninfluenced reaction to your wireframe, both good and bad.</p><p>The test will end when the tester either a) reports they have completed the objective, or b) reports they are unable to complete the objective. <em>After</em> the test is complete, you may converse briefly to ask questions or clarify misunderstandings.</p><p>We'll remain in pairs for 20 minutes, 10 minutes for each wireframe. Complete as many user-stories as you are able in that time. We'll then mix up our groups and test again, and again, for a total of three pairings.<p>",
             "instructions" : "<p>Post an html document with your observations and feedback notes (or which links to same). Include your analysis of the raw findings: what are the takeaways for you?</p>",
@@ -277,9 +276,9 @@
           {
             "slug" : "wireframe-revisions",
             "name" : "Mid-Fidelity Wireframes - Revisions",
-            "assigned" : "2022-02-09",
-            "due" : "2022-02-14",
-            "hidden": false,
+            "assigned" : "2024-02-09",
+            "due" : "2024-02-14",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Revise your wireframe based on your test results. Add details, clean up structure, consider building digitally. Aim to have as complete a 'blueprint' as possible without getting into style.</p>",
             "instructions" : "<p>Make sure to COPY your wireframe then make changes to the copy, so the original wireframe remains untouched, and we can compare the two. As before, post the revised wireframe.</p>",
@@ -289,16 +288,16 @@
           {
             "slug" : "content-collection",
             "name" : "Content Collection",
-            "assigned" : "2022-02-09",
-            "due" : "2022-02-14",
-            "hidden": false,
+            "assigned" : "2024-02-09",
+            "due" : "2024-02-14",
+            "hidden": true,
             "file": "index.html",
             "description" : "<p>Collect the assets you will likely need for mockups. Bike product images, lifestyle and/or category images, bike info (descriptions, names, prices, specs, etc.), lists of things like brands/manufacturers. Draft any copy you think you'll need: calls to action, nav labels, messaging for newbies, etc.</p>",
             "instructions" : "<p>Embed all of these assets in an html document. Don't use Word, or google docs, or a PDF. Create a simple HTML document from which you can copy/paste text, image URLs, anything and everything you think you'll need for assets.</p>",
             "references" : [
               {
                 "name" : "QuickCycle Logo",
-                "link" : "https://abesiemsen.github.io/applications2022spring-resources/quickcycle-logo.svg",
+                "link" : "https://abesiemsen.github.io/applications2024spring-resources/quickcycle-logo.svg",
                 "description" : "Logo art for you to use"
               }
             ]
@@ -306,16 +305,16 @@
           {
             "slug" : "visual-mockups",
             "name" : "Visual Mockups",
-            "assigned" : "2022-02-14",
-            "due" : "2022-02-21",
-            "hidden": false,
+            "assigned" : "2024-02-14",
+            "due" : "2024-02-21",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create mockups that present the decisions you made in wireframing, along with base style choices that make it presentation friendly.</p>",
             "instructions" : "<p><em>After</em> you're certain your wireframes represent a complete set of functional decisions, it's time to create a high-fidelity visual mockup that is client-facing. Your aim is to present your UI solutions in a way that provides not only clear functional direction, but clear style direction. Use the logo referenced below. Don't worry about any elements of the site and page not related to actually finding a bike. Better to leave those <em>very</em> loosely defined, with a clear distinction between what is and is not 'fully-realized.' For instance, you might 'ghost' anything that is not part of the bike-finding experience. Focus on hierarchy, legibility, and clarity. Aim for your UI elements to be the unobtrusive frame in which the content is displayed.</p><p>This mockup will become a clickable prototype in next steps, but for now, just make a series of pages that 'loop' when clicked: clicking anywhere on home takes me to list, anywhere on list takes me to detail, anywhere on detail takes me back to home. You can accomplish this either with a prototyping tool (XD, Figma, etc), or with images in HTML documents linked together with simple &lt;a&gt; tags.</p>",
             "references": [
               {
                 "name" : "QuickCycle Logo",
-                "link" : "https://abesiemsen.github.io/applications2022spring-resources/quickcycle-logo.svg",
+                "link" : "https://abesiemsen.github.io/applications2024spring-resources/quickcycle-logo.svg",
                 "description" : "Logo art for you to use"
               },
               {
@@ -328,9 +327,9 @@
           {
             "slug" : "clickable-prototypes",
             "name" : "Clickable Prototypes",
-            "assigned" : "2022-02-23",
-            "due" : "2022-02-28",
-            "hidden": false,
+            "assigned" : "2024-02-23",
+            "due" : "2024-02-28",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Create presentation-ready prototypes with enough interactive functionality to demonstrate a 'typical' path through the bike-finding process.</p>",
             "instructions" : "<p>When your high-fidelity mockups are ready, add interactivity so we can walk through them in a plausible way. Don't worry about simulating every possible user interaction – focus on those interactions that guide us through the 'typical' experience and that point out key features, such as clicking a search bar and getting to the search results view, or clicking a thumbnail to get to a bike detail view.</p><p>You may also consider adding interaction to show key transient UI interactions such as a menu flyout, or expanded filter control.</p><p>Make sure your prototype is self-sufficient. In other words, make sure the rest of us can click through your prototype successfully without your input or explanation.</p>",
@@ -340,9 +339,9 @@
           {
             "slug" : "final",
             "name" : "Final Presentation-Ready Prototype",
-            "assigned" : "2022-02-28",
-            "due" : "2022-03-02",
-            "hidden": false,
+            "assigned" : "2024-02-28",
+            "due" : "2024-03-02",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>We're done making, now it's time to present. Prepare to give a short (5 min or less) walk-through of your prototype, pointing out key features and design choices. (Hint: well-applied conventions are a good design choices, don't short-change them!) Your presentation should address both functionality and style rationale. We'll have a guest reviewer on Wednesday to watch your presentations and provide feedback.</p>",
             "instructions" : "<p>Post a link to your final presentation-ready Figma or XD file.</p>",
@@ -431,17 +430,17 @@
       {
         "slug" : "configurator",
         "name" : "Configurator",
-        "start" : "2022-03-07",
-        "end" : "2022-04-27",
+        "start" : "2024-03-18",
+        "end" : "2024-04-24",
         "hidden": false,
         "description" : "<p>If you've ordered Pizza online, you know what a 'configurator' is &mdash; the interface by which you step through the various choices/options available to 'customize' something you want to describe. Thin-crust or deep dish, light cheese or heavy, Which meats? Which veggies?</p><p>In this project, you will design a configurator interface &mdash; but the object being configured is up to you. Could be pizza if you like, but could also be something like an airline ticket. The choice is yours... within some parameters:</p><ul><li>The item being configured must have a finite set of pre-defined options that can be clearly articulated and easily understood.</li><li>Completion of the user-experience should be possible in no more than 3&ndash;5 steps.</li><li>The item must be commonly understood, requiring only a minimum of 'education' in order to configure.</li><li>Abe must approve it. :)</li></ul><p>This project does not have a defined final deliverable, other than to say the finished product of your work should easily allow anybody to simulate the configuration process. You may choose to actually build and program the configurator in html/css/js, you may choose to build a clickable prototype, you may choose to only provide a series of mockups. You should, however, play to your strengths. Decide on a topic and a final deliverable that showcases your abilities, and maximizes the value of the time you spend.</p><p>What will I be looking for? Research. Clarity of problem/purpose. An understanding of your audience. Ease of use. Evidence of a strong work ethic. A self-sufficient end-product. Reasoned UX choices. Transparently usable and accessible UI. Ultimately, that it shows well!</p>",
         "deliverables" : [
           {
             "slug" : "proposal",
             "name" : "Proposal",
-            "assigned" : "2022-03-07",
-            "due" : "2022-03-09",
-            "hidden": false,
+            "assigned" : "2024-03-07",
+            "due" : "2024-03-09",
+            "hidden": true,
             "file" : "proposal.pdf",
             "description" : "<p>Write a proposal indicating the object or experience you intend to configure and how it is configurable. Explain <em>your</em> current understanding of the need, then describe how you intend to research, understand, and document the <em>users'</em> needs. Describe the kind of final deliverable you expect to create, and how that deliverable plays to your strengths. Enumerate what you expect to be able to show as progress in each class session between today and the final day of class.</p><p>Think of this proposal itself as a reference document you are creating. It describes the need, the scope of your intentions, and your plan for implementation. In reality it will be a reference for you and me, but treat it like a self-sufficient document: if you were to hand it to somebody without explanation or context, they should be able to understand what you plan to do, why, and how.</p><p>Finally, consider what <em>you</em> will need to include in this document in order to make it be a useful reference as we progress through the project.",
             "instructions" : "<p><strong>Upload your proposal as a PDF.</strong> We will refer to it as we check progress through this project. I don't expect you to meet every goal you set perfectly, but I will expect you to meet me each week with either a met objective, or a revised plan.</p>"
@@ -459,9 +458,9 @@
           {
             "slug" : "step-1",
             "name" : "Step 1",
-            "assigned" : "2022-03-09",
-            "due" : "2022-03-21",
-            "hidden": false,
+            "assigned" : "2024-03-09",
+            "due" : "2024-03-21",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -476,9 +475,9 @@
           {
             "slug" : "step-2",
             "name" : "Step 2",
-            "assigned" : "2022-03-21",
-            "due" : "2022-03-23",
-            "hidden": false,
+            "assigned" : "2024-03-21",
+            "due" : "2024-03-23",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -493,9 +492,9 @@
           {
             "slug" : "step-3",
             "name" : "Step 3",
-            "assigned" : "2022-03-23",
-            "due" : "2022-03-28",
-            "hidden": false,
+            "assigned" : "2024-03-23",
+            "due" : "2024-03-28",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -510,9 +509,9 @@
           {
             "slug" : "step-4",
             "name" : "Step 4",
-            "assigned" : "2022-03-28",
-            "due" : "2022-03-30",
-            "hidden": false,
+            "assigned" : "2024-03-28",
+            "due" : "2024-03-30",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -527,9 +526,9 @@
           {
             "slug" : "step-5",
             "name" : "Step 5",
-            "assigned" : "2022-03-30",
-            "due" : "2022-04-04",
-            "hidden": false,
+            "assigned" : "2024-03-30",
+            "due" : "2024-04-04",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -544,9 +543,9 @@
           {
             "slug" : "step-6",
             "name" : "Step 6",
-            "assigned" : "2022-04-04",
-            "due" : "2022-04-06",
-            "hidden": false,
+            "assigned" : "2024-04-04",
+            "due" : "2024-04-06",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -561,9 +560,9 @@
           {
             "slug" : "step-7",
             "name" : "Step 7",
-            "assigned" : "2022-04-06",
-            "due" : "2022-04-11",
-            "hidden": false,
+            "assigned" : "2024-04-06",
+            "due" : "2024-04-11",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -578,9 +577,9 @@
           {
             "slug" : "step-8",
             "name" : "Step 8",
-            "assigned" : "2022-04-11",
-            "due" : "2022-04-13",
-            "hidden": false,
+            "assigned" : "2024-04-11",
+            "due" : "2024-04-13",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -595,9 +594,9 @@
           {
             "slug" : "step-9",
             "name" : "Step 9",
-            "assigned" : "2022-04-13",
-            "due" : "2022-04-18",
-            "hidden": false,
+            "assigned" : "2024-04-13",
+            "due" : "2024-04-18",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -612,9 +611,9 @@
           {
             "slug" : "step-10",
             "name" : "Step 10",
-            "assigned" : "2022-04-18",
-            "due" : "2022-04-20",
-            "hidden": false,
+            "assigned" : "2024-04-18",
+            "due" : "2024-04-20",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
             "instructions" : "<p>Upload progress per your proposal.</p>",
@@ -629,9 +628,9 @@
           {
             "slug" : "final",
             "name" : "Final",
-            "assigned" : "2022-04-25",
-            "due" : "2022-04-27",
-            "hidden": false,
+            "assigned" : "2024-04-25",
+            "due" : "2024-04-27",
+            "hidden": true,
             "file" : "index.html",
             "description" : "<p>We have reached the end of the line!</p>",
             "instructions" : "<p>Upload your final work (or a link to it). Then, fill out the course evaluation form!</p>",
