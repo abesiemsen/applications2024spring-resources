@@ -65,10 +65,6 @@
         "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
       },
       {
-        "lastName": "Lee", "firstName": "Brian", "slug": "BrianLee", "status": "waitlist",
-        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
-      },
-      {
         "lastName": "Lee", "firstName": "Sophie", "slug": "SophieLee", "status": "waitlist",
         "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
       },
@@ -93,10 +89,6 @@
         "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
       },
       {
-        "lastName": "Sidelsky", "firstName": "Josh", "slug": "JoshSidelsky", "status": "enrolled",
-        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
-      },
-      {
         "lastName": "Viswanathan", "firstName": "Vinay", "slug": "VinayViswanathan", "status": "enrolled",
         "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
       },
@@ -105,19 +97,7 @@
         "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
       },
       {
-        "lastName": "Wang", "firstName": "Kristen", "slug": "KristenWang", "status": "enrolled",
-        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
-      },
-      {
         "lastName": "Xia", "firstName": "Ray", "slug": "RayXia", "status": "enrolled",
-        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
-      },
-      {
-        "lastName": "Yang", "firstName": "Jincheng", "slug": "JinchengYang", "status": "waitlist",
-        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
-      },
-      {
-        "lastName": "Yi", "firstName": "Benjamin", "slug": "BenjaminYi", "status": "enrolled",
         "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
       },
       {
@@ -130,6 +110,26 @@
       }
     ],
     "dropped": [
+      {
+        "lastName": "Lee", "firstName": "Brian", "slug": "BrianLee", "status": "waitlist",
+        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
+      },
+      {
+        "lastName": "Sidelsky", "firstName": "Josh", "slug": "JoshSidelsky", "status": "enrolled",
+        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
+      },
+      {
+        "lastName": "Wang", "firstName": "Kristen", "slug": "KristenWang", "status": "enrolled",
+        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
+      },
+      {
+        "lastName": "Yang", "firstName": "Jincheng", "slug": "JinchengYang", "status": "waitlist",
+        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
+      },
+      {
+        "lastName": "Yi", "firstName": "Benjamin", "slug": "BenjaminYi", "status": "enrolled",
+        "basePath": "https://NEED_GITHUB_USERNAME.github.io/applications2024spring/"
+      }
     ],
     "sessions": [
     ],
