@@ -193,34 +193,50 @@
             "instructions" : "<p>Educate yourself about bikes and bike users, considering the factors and sources noted above. Challenge yourself to push past what you already know – find some suprises. Create an HTML document that lists the sources you used and briefly describes how you used them. Then summarize and analyze. What big questions will a buyer will be faced with? What priorities might they have? What did you run into that you <em>didn't</em> understand, and now you do?</p>"
           },
           {
+            "slug" : "user-traits",
+            "name" : "User Traits",
+            "assigned" : "2024-01-22",
+            "due" : "2024-01-22 (In class)",
+            "hidden": false,
+            "description" : "<p>Define and list of user traits with the class.</p>",
+            "instructions" : "<p>Join the Google document referenced below, and brainstorm traits and possible trait expressions with your classmates.</p>",
+            "references" : [
+              {
+                "name" : "QuickCycle User Traits Collaboration",
+                "link" : "https://docs.google.com/document/d/1WZCXXKS0kvGzntOBOIovfH5DyofWCndvvgrWFW0GV-I/edit?usp=sharing",
+                "description" : "We'll collaborate within this document to define and evaluate user traits."
+              }
+            ]
+          },
+          {
             "slug" : "personas",
             "name" : "Personas",
-            "assigned" : "2024-01-24",
-            "due" : "2024-01-24 (In Class)",
-            "hidden": true,
+            "assigned" : "2024-01-22",
+            "due" : "2024-01-22 (In class)",
+            "hidden": false,
             "description" : "<p>Define and document a persona with your group.</p>",
             "instructions" : "<p>With your group, copy the persona template we've created together, and flesh out your assigned persona. Be sure to include the elements of a persona as we defined them in class. This is not just about collecting words together – it is about imagining a person, empathizing with them, and making them feel human. It requires imagination and writing skill to fill in the gaps so the rest of us will understand who this person is! Create/edit the persona in the Google Doc referenced below.</p>",
             "references" : [
               {
                 "name" : "QuickCycle Persona Collaboration",
-                "link" : "https://docs.google.com/document/d/1yrgExhI2z5P_RhQVAvqA7SeQ2gRJW8g502ho4ZuXuLA/edit?usp=sharing",
-                "description" : "We'll collaborate within this document to create our personas and user stories for the project."
+                "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=sharing",
+                "description" : "We'll collaborate within this document to create our personas."
               }
             ]
           },
           {
-            "slug" : "user-stories-existing-site",
-            "name" : "User Stories - Existing Site",
+            "slug" : "user-stories",
+            "name" : "User Stories",
             "assigned" : "2024-01-24",
-            "due" : "2024-01-29",
+            "due" : "2024-01-24 (In class)",
             "hidden": true,
-            "description" : "<p>Embody the person your team created, and write user stories describing their experience on a real website.</p>",
-            "instructions" : "<p>Select a real website for purchasing a bicycle, then 'be' the persona your team defined as you go through the purchasing process once again. Break the process down into a series of small, discrete objectives, following the <a href=\"https://www.google.com/search?q=user+story\" target=\"_blank\">User Story</a> pattern: <strong>\"As a &lt;type of user&gt;, I want &lt;some goal&gt; so that &lt;some reason&gt;.\"</strong> Add your user stories to our persona collaboration document.</p>",
+            "description" : "<p>Break into groups, one for each persona. Inhabit the persona – put yourself in this person’s shoes, envision how they might approach the task of purchasing a bicycle online. Break the process down into discrete parts. At each step, what are they doing? Why? What result will they get? What will they think? What will they do next?</p>",
+            "instructions" : "<p>Write every user story you imagine this persona would have. Follow the user story pattern: <strong>\"As &lt;a persona or role&gt;, I want &lt;to perform this action action&gt; so that &lt;I can accomplish this goal&gt;.\"</strong> Add your user stories to our persona collaboration document.</p>",
             "references" : [
               {
-                "name" : "QuickCycle Persona Collaboration",
-                "link" : "#",
-                "description" : "We'll collaborate within this document to create our personas and user stories for the project."
+                "name" : "QuickCycle Persona Collaboration, with User Stories",
+                "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=sharing",
+                "description" : "We'll collaborate within this document to add user stories to our personas."
               }
             ]
           },
