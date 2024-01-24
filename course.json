@@ -86,7 +86,7 @@
       },
       {
         "lastName": "Yu", "firstName": "Wenting", "slug": "WentingYu", "status": "enrolled",
-        "basePath": "https://NEED-GITHUB-USERNAME.github.io/applications2024spring/"
+        "basePath": "https://Wenting-Yu.github.io/applications2024spring/"
       },
       {
         "lastName": "Zhang", "firstName": "Ann", "slug": "AnnZhang", "status": "enrolled",
@@ -199,8 +199,8 @@
           {
             "slug" : "user-traits",
             "name" : "User Traits",
-            "assigned" : "2024-01-22",
-            "due" : "2024-01-22 (In class)",
+            "assigned" : "2024-01-24",
+            "due" : "2024-01-24 (In class)",
             "hidden": false,
             "description" : "<p>Define and list of user traits with the class.</p>",
             "instructions" : "<p>Join the Google document referenced below, and brainstorm traits and possible trait expressions with your classmates.</p>",
@@ -215,8 +215,8 @@
           {
             "slug" : "personas",
             "name" : "Personas",
-            "assigned" : "2024-01-22",
-            "due" : "2024-01-22 (In class)",
+            "assigned" : "2024-01-24",
+            "due" : "2024-01-24 (In class)",
             "hidden": false,
             "description" : "<p>Define and document a persona with your group.</p>",
             "instructions" : "<p>With your group, copy the persona template we've created together, and flesh out your assigned persona. Be sure to include the elements of a persona as we defined them in class. This is not just about collecting words together – it is about imagining a person, empathizing with them, and making them feel human. It requires imagination and writing skill to fill in the gaps so the rest of us will understand who this person is! Create/edit the persona in the Google Doc referenced below.</p>",
@@ -233,7 +233,7 @@
             "name" : "User Stories",
             "assigned" : "2024-01-24",
             "due" : "2024-01-24 (In class)",
-            "hidden": true,
+            "hidden": false,
             "description" : "<p>Break into groups, one for each persona. Inhabit the persona – put yourself in this person’s shoes, envision how they might approach the task of purchasing a bicycle online. Break the process down into discrete parts. At each step, what are they doing? Why? What result will they get? What will they think? What will they do next?</p>",
             "instructions" : "<p>Write every user story you imagine this persona would have. Follow the user story pattern: <strong>\"As &lt;a persona or role&gt;, I want &lt;to perform this action action&gt; so that &lt;I can accomplish this goal&gt;.\"</strong> Add your user stories to our persona collaboration document.</p>",
             "references" : [
@@ -245,13 +245,13 @@
             ]
           },
           {
-            "slug" : "feature-organization",
-            "name" : "Feature Organization",
+            "slug" : "feature-ideation",
+            "name" : "Feature Ideation",
             "assigned" : "2024-01-24",
             "due" : "2024-01-29",
-            "hidden": true,
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Using ALL of the personas and user-stories we've collective written as reference, create a document that organizes <em>your</em> ideas about what solutions you propose to use, and how they'll fit together into a complete experience.</p>",
+            "description" : "<p>Using ALL of the personas and user-stories we've collective written as reference, create a document that organizes <em>your</em> ideas about what solutions you propose to use.</p>",
             "instructions" : "<ol><li>Read through the user-stories gathered in our previous deliverable. If you choose, make your own copy of the personas and user-stories, and consolidate/organize further than we have in class.</li><li>Identify possible UI solutions to address the stories. Not necessarily 1-for-1, just let the stories suggest ideas for components. A menu. A big photo. A search bar. An expanding drawer. Sometimes a single component such as a checkbox is enough. Sometimes you may end up with a set of components that work together, such as a search-field, search button, and results list. Keep an eye out for solutions that address more than one story/need, or that can be enhanced to address additional needs. For instance, a basic search bar might be enhanced with an 'auto-suggest' feature.</li><li>Organize your solutions into pages, or views. What views need to exist? What responsibilities does each view have?</li><li>Format your decisions in a document (or set of documents) that conveys as much as possible about your decisions, with as little effort as possible. The idea is to communicate a plan that's both easy to follow, and easy to change.</li></ol>"
           },
           {
