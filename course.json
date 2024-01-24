@@ -206,6 +206,31 @@
             "instructions" : "<p>Join the Google document referenced below, and brainstorm traits and possible trait expressions with your classmates.</p>",
             "references" : [
               {
+                "name" : "QuickCycle User Traits - Group 1",
+                "link" : "https://docs.google.com/document/d/1ewu9LthR5ujn3dxAov1VLPCD81EyqgoP4bD_CK9S1ps/edit?usp=sharing",
+                "description" : "Use this document to ideate traits within your group."
+              },
+              {
+                "name" : "QuickCycle User Traits - Group 2",
+                "link" : "https://docs.google.com/document/d/1ULFUDOYWvGeYygPSCAWeg2Kqw4rae2k_6ZEAiONxY_Y/edit?usp=sharing",
+                "description" : "Use this document to ideate traits within your group."
+              },
+              {
+                "name" : "QuickCycle User Traits - Group 3",
+                "link" : "https://docs.google.com/document/d/1hysfrluHzxxTlAcdYcDBVWv5StrtLWwpl6NNNZNQzrA/edit?usp=sharing",
+                "description" : "Use this document to ideate traits within your group."
+              },
+              {
+                "name" : "QuickCycle User Traits - Group 4",
+                "link" : "https://docs.google.com/document/d/1QgrJYYGKxYfXeMRENRBXwNlPX4VfeG9yoIZ__V0yj4Y/edit?usp=sharing",
+                "description" : "Use this document to ideate traits within your group."
+              },
+              {
+                "name" : "QuickCycle User Traits - Group 5",
+                "link" : "https://docs.google.com/document/d/10X8WRb7HcB50LhQZ0B2vmFPEHWMFQXW2-E6oKB11d3k/edit?usp=sharing",
+                "description" : "Use this document to ideate traits within your group."
+              },
+              {
                 "name" : "QuickCycle User Traits Collaboration",
                 "link" : "https://docs.google.com/document/d/1WZCXXKS0kvGzntOBOIovfH5DyofWCndvvgrWFW0GV-I/edit?usp=sharing",
                 "description" : "We'll collaborate within this document to define and evaluate user traits."
@@ -222,9 +247,29 @@
             "instructions" : "<p>With your group, copy the persona template we've created together, and flesh out your assigned persona. Be sure to include the elements of a persona as we defined them in class. This is not just about collecting words together – it is about imagining a person, empathizing with them, and making them feel human. It requires imagination and writing skill to fill in the gaps so the rest of us will understand who this person is! Create/edit the persona in the Google Doc referenced below.</p>",
             "references" : [
               {
-                "name" : "QuickCycle Persona Collaboration",
-                "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=sharing",
-                "description" : "We'll collaborate within this document to create our personas."
+                "name" : "QuickCycle Persona 1",
+                "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=drive_link",
+                "description" : "Group 1 will assemble this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 2",
+                "link" : "https://docs.google.com/document/d/1ZImXudl4DeYBxDsoz366_CzrpHXlQXjgTVORcLrBxwI/edit?usp=drive_link",
+                "description" : "Group 2 will assemble this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 3",
+                "link" : "https://docs.google.com/document/d/1_DrjPhltbgvhVpG12ovfSPiz4vOx3Msfp2EkL9-vFII/edit?usp=drive_link",
+                "description" : "Group 3 will assemble this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 4",
+                "link" : "https://docs.google.com/document/d/1YKapLyXLTyRKHUCRkjp37goJ6SvIwyinJTMcujqY8G0/edit?usp=drive_link",
+                "description" : "Group 4 will assemble this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 5",
+                "link" : "https://docs.google.com/document/d/1xC4Vssm18fVBptJJShtxSWfEecEbnenIcHEqzui87Y4/edit?usp=drive_link",
+                "description" : "Group 5 will assemble this persona."
               }
             ]
           },
@@ -238,9 +283,29 @@
             "instructions" : "<p>Write every user story you imagine this persona would have. Follow the user story pattern: <strong>\"As &lt;a persona or role&gt;, I want &lt;to perform this action action&gt; so that &lt;I can accomplish this goal&gt;.\"</strong> Add your user stories to our persona collaboration document.</p>",
             "references" : [
               {
-                "name" : "QuickCycle Persona Collaboration, with User Stories",
-                "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=sharing",
-                "description" : "We'll collaborate within this document to add user stories to our personas."
+                "name" : "QuickCycle Persona 1",
+                "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=drive_link",
+                "description" : "Group 1 will add user stories to this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 2",
+                "link" : "https://docs.google.com/document/d/1ZImXudl4DeYBxDsoz366_CzrpHXlQXjgTVORcLrBxwI/edit?usp=drive_link",
+                "description" : "Group 2 will add user stories to this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 3",
+                "link" : "https://docs.google.com/document/d/1_DrjPhltbgvhVpG12ovfSPiz4vOx3Msfp2EkL9-vFII/edit?usp=drive_link",
+                "description" : "Group 3 will add user stories to this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 4",
+                "link" : "https://docs.google.com/document/d/1YKapLyXLTyRKHUCRkjp37goJ6SvIwyinJTMcujqY8G0/edit?usp=drive_link",
+                "description" : "Group 4 will add user stories to this persona."
+              },
+              {
+                "name" : "QuickCycle Persona 5",
+                "link" : "https://docs.google.com/document/d/1xC4Vssm18fVBptJJShtxSWfEecEbnenIcHEqzui87Y4/edit?usp=drive_link",
+                "description" : "Group 5 will add user stories to this persona."
               }
             ]
           },
