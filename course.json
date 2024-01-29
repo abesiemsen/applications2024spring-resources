@@ -247,27 +247,27 @@
             "instructions" : "<p>With your group, copy the persona template we've created together, and flesh out your assigned persona. Be sure to include the elements of a persona as we defined them in class. This is not just about collecting words together – it is about imagining a person, empathizing with them, and making them feel human. It requires imagination and writing skill to fill in the gaps so the rest of us will understand who this person is! Create/edit the persona in the Google Doc referenced below.</p>",
             "references" : [
               {
-                "name" : "QuickCycle Persona 1",
+                "name" : "QuickCycle Persona 1 - Parent and child | Big Kim and Little Kim",
                 "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=drive_link",
                 "description" : "Group 1 will assemble this persona."
               },
               {
-                "name" : "QuickCycle Persona 2",
+                "name" : "QuickCycle Persona 2 - Teen commuter | Michael Stevens",
                 "link" : "https://docs.google.com/document/d/1ZImXudl4DeYBxDsoz366_CzrpHXlQXjgTVORcLrBxwI/edit?usp=drive_link",
                 "description" : "Group 2 will assemble this persona."
               },
               {
-                "name" : "QuickCycle Persona 3",
+                "name" : "QuickCycle Persona 3 - Extreme BMXer | Tammy Osprey",
                 "link" : "https://docs.google.com/document/d/1_DrjPhltbgvhVpG12ovfSPiz4vOx3Msfp2EkL9-vFII/edit?usp=drive_link",
                 "description" : "Group 3 will assemble this persona."
               },
               {
-                "name" : "QuickCycle Persona 4",
+                "name" : "QuickCycle Persona 4 - Middle-aged transporter | Maxine",
                 "link" : "https://docs.google.com/document/d/1YKapLyXLTyRKHUCRkjp37goJ6SvIwyinJTMcujqY8G0/edit?usp=drive_link",
                 "description" : "Group 4 will assemble this persona."
               },
               {
-                "name" : "QuickCycle Persona 5",
+                "name" : "QuickCycle Persona 5 - Fitness and family senior | Tom Jenkins",
                 "link" : "https://docs.google.com/document/d/1xC4Vssm18fVBptJJShtxSWfEecEbnenIcHEqzui87Y4/edit?usp=drive_link",
                 "description" : "Group 5 will assemble this persona."
               }
@@ -276,44 +276,24 @@
           {
             "slug" : "user-stories",
             "name" : "User Stories",
-            "assigned" : "2024-01-24",
-            "due" : "2024-01-24 (In class)",
+            "assigned" : "2024-01-29",
+            "due" : "2024-01-29 (In class)",
             "hidden": false,
             "description" : "<p>Break into groups, one for each persona. Inhabit the persona – put yourself in this person’s shoes, envision how they might approach the task of purchasing a bicycle online. Break the process down into discrete parts. At each step, what are they doing? Why? What result will they get? What will they think? What will they do next?</p>",
-            "instructions" : "<p>Write every user story you imagine this persona would have. Follow the user story pattern: <strong>\"As &lt;a persona or role&gt;, I want &lt;to perform this action action&gt; so that &lt;I can accomplish this goal&gt;.\"</strong> Add your user stories to our persona collaboration document.</p>",
+            "instructions" : "<p>Write every user story you imagine this persona would have. Follow the user story pattern: <strong>\"As &lt;a persona or role&gt;, I want &lt;to perform this action action&gt; so that &lt;I can accomplish this goal&gt;.\"</strong> Add your user stories to our user story spreadsheet.</p><p>Once we've collected user stories, we need to analyze them. We will try a few approaches to grouping, refining, and scoring in order to tease out insights.</p>",
             "references" : [
               {
-                "name" : "QuickCycle Persona 1",
-                "link" : "https://docs.google.com/document/d/11TL4I1fgJmnUFShDO3XkbEDVYUgeoOGEJ89KfFq3OzM/edit?usp=drive_link",
-                "description" : "Group 1 will add user stories to this persona."
-              },
-              {
-                "name" : "QuickCycle Persona 2",
-                "link" : "https://docs.google.com/document/d/1ZImXudl4DeYBxDsoz366_CzrpHXlQXjgTVORcLrBxwI/edit?usp=drive_link",
-                "description" : "Group 2 will add user stories to this persona."
-              },
-              {
-                "name" : "QuickCycle Persona 3",
-                "link" : "https://docs.google.com/document/d/1_DrjPhltbgvhVpG12ovfSPiz4vOx3Msfp2EkL9-vFII/edit?usp=drive_link",
-                "description" : "Group 3 will add user stories to this persona."
-              },
-              {
-                "name" : "QuickCycle Persona 4",
-                "link" : "https://docs.google.com/document/d/1YKapLyXLTyRKHUCRkjp37goJ6SvIwyinJTMcujqY8G0/edit?usp=drive_link",
-                "description" : "Group 4 will add user stories to this persona."
-              },
-              {
-                "name" : "QuickCycle Persona 5",
-                "link" : "https://docs.google.com/document/d/1xC4Vssm18fVBptJJShtxSWfEecEbnenIcHEqzui87Y4/edit?usp=drive_link",
-                "description" : "Group 5 will add user stories to this persona."
+                "name" : "QuickCycle User Stories",
+                "link" : "https://docs.google.com/spreadsheets/d/1AQj6YxHaW1cx1HvTVpnRf1C4jcTd4oaRtk2btyG6rbE/edit?usp=sharing",
+                "description" : "We will manage user stories in this spreadsheet."
               }
             ]
           },
           {
             "slug" : "feature-ideation",
             "name" : "Feature Ideation",
-            "assigned" : "2024-01-24",
-            "due" : "2024-01-29",
+            "assigned" : "2024-01-29",
+            "due" : "2024-02-05",
             "hidden": false,
             "file" : "index.html",
             "description" : "<p>Using ALL of the personas and user-stories we've collective written as reference, create a document that organizes <em>your</em> ideas about what solutions you propose to use.</p>",
