@@ -290,6 +290,18 @@
             ]
           },
           {
+            "slug" : "user-story-analysis",
+            "name" : "User Story Analysis",
+            "assigned" : "2024-01-29",
+            "due" : "2024-01-31 (In class)",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>How do you make sense of all the user stories? How will you group, refine, and score them?</p>",
+            "instructions" : "<p>Make your own personal copy of the analysis document started by your group. Apply a scoring algorithm of some kind, or use whatever methods you prefer to identify which stories you MUST address, which you would LIKE to address, and which you can probably dismiss.</p><p>upload an HTML file that links to your personal google sheet. (If you don't know how to do this yet, send me a link to the google sheet via slack.)</p>",
+            "references" : [
+            ]
+          },
+          {
             "slug" : "feature-ideation",
             "name" : "Feature Ideation",
             "assigned" : "2024-01-29",
