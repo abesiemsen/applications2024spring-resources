@@ -165,6 +165,11 @@
             "name" : "Getting Started with CSS",
             "link" : "https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/Getting_started",
             "description" : "In case you need a refresher."
+          },
+          {
+            "name" : "Simple HTML Deliverable Template",
+            "link" : "https://abesiemsen.github.io/applications2024spring-resources/deliverable.txt",
+            "description" : "You can copy/paste this template as a starting point for turning in homework."
           }
         ]
       },

@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>( NAME THE TAB HERE )</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.4;
+            margin: 3rem auto;
+            max-width: 90%;
+            width: 800px;
+        }
+    </style>
+</head>
+<body>
+    <h1>
+        ( PUT A DOCUMENT TITLE HERE )
+    </h1>
+    <p>
+        ( PUT YOUR NAME HERE )
+    </p>
+    <p>
+        <a href="https://insert.your.web.link" target="_blank">( PUT TEXT TO CLICK HERE )</a>
+    </p>
+</body>
+</html>
