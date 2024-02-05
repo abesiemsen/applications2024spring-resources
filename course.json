@@ -319,22 +319,17 @@
           {
             "slug" : "lofi-wireframes",
             "name" : "Low-Fidelity Wireframes",
-            "assigned" : "2024-02-02",
+            "assigned" : "2024-02-05",
             "due" : "2024-02-07",
-            "hidden": true,
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Create low-fidelity wireframes that visualize your proposed layout.</p>",
-            "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? <!--Use <code>deliverable.json</code> to upload multiple versions as needed.</p><p><strong>UPDATED REQUIREMENT (2018-02-05): Iterate and update per the <a href=\"https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing\" target=\"_blank\">in-class guidance</a>.</strong></p>-->",
-            "old-references" : [
+            "description" : "<p>Create low-fidelity wireframes that visualize the features you've identified.</p>",
+            "instructions" : "<p>Create wireframes with whatever tool you choose, but stay <strong><em>low-fidelity</em></strong>. Don't waste time making it pretty: make it CLEAR. At the same time, do not over-simplify in terms of information. Provide enough information so we can understand what's happening. If a product in the list includes a title or a price, show those things.</p><p>Don't be satisfied with your first run at it... it's probably incomplete. Expect to iterate. Practice 'using' your wireframes with our personas. Can you complete the user-stories for each persona? <!--Use <code>deliverable.json</code> to upload multiple versions as needed.</p>",
+            "references" : [
               {
-                "name" : "Google Slides: Bike Finder Lo-Fi Wireframe Feedback",
-                "link" : "https://docs.google.com/presentation/d/1sOK99cNOeU_RQ_WjC6yUag26ZDEbSAVwzmSmsXhY3JY/edit?usp=sharing",
-                "description" : "Abe's recommendations for how to improve / refine / complete your wireframes."
-              },
-              {
-                "name" : "Google Doc: Abe's Feedback on Revised Low-Fidelity Wireframes",
-                "link" : "https://docs.google.com/document/d/1ytre-7oZsvAoxkgxKFZ0gIgwANpozJ00-cZBs7EXR-o/edit?usp=sharing",
-                "description" : "A few quick reactions to what I'm seeing for each of you individually. By no means exhaustive."
+                "name" : "Google Slides: Session 6",
+                "link" : "https://docs.google.com/presentation/d/1YDDeSdjP1tNc-XJ4nZb_bKIgkCwsSN3SI3Dc4VJz0W0/edit?usp=sharing",
+                "description" : "Abe's recommendations for making useful low-fidelity wireframes."
               }
             ]
           },
