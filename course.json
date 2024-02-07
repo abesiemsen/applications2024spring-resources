@@ -320,7 +320,7 @@
             "slug" : "lofi-wireframes",
             "name" : "Low-Fidelity Wireframes",
             "assigned" : "2024-02-05",
-            "due" : "2024-02-07",
+            "due" : "2024-02-12",
             "hidden": false,
             "file" : "index.html",
             "description" : "<p>Create low-fidelity wireframes that visualize the features you've identified.</p>",
@@ -365,7 +365,7 @@
           {
             "slug" : "content-collection",
             "name" : "Content Collection",
-            "assigned" : "2024-02-09",
+            "assigned" : "2024-02-07",
             "due" : "2024-02-14",
             "hidden": true,
             "file": "index.html",
@@ -382,9 +382,9 @@
           {
             "slug" : "visual-mockups",
             "name" : "Visual Mockups",
-            "assigned" : "2024-02-14",
-            "due" : "2024-02-21",
-            "hidden": true,
+            "assigned" : "2024-02-07",
+            "due" : "2024-02-19",
+            "hidden": false,
             "file" : "index.html",
             "description" : "<p>Create mockups that present the decisions you made in wireframing, along with base style choices that make it presentation friendly.</p>",
             "instructions" : "<p><em>After</em> you're certain your wireframes represent a complete set of functional decisions, it's time to create a high-fidelity visual mockup that is client-facing. Your aim is to present your UI solutions in a way that provides not only clear functional direction, but clear style direction. Use the logo referenced below. Don't worry about any elements of the site and page not related to actually finding a bike. Better to leave those <em>very</em> loosely defined, with a clear distinction between what is and is not 'fully-realized.' For instance, you might 'ghost' anything that is not part of the bike-finding experience. Focus on hierarchy, legibility, and clarity. Aim for your UI elements to be the unobtrusive frame in which the content is displayed.</p><p>This mockup will become a clickable prototype in next steps, but for now, just make a series of pages that 'loop' when clicked: clicking anywhere on home takes me to list, anywhere on list takes me to detail, anywhere on detail takes me back to home. You can accomplish this either with a prototyping tool (XD, Figma, etc), or with images in HTML documents linked together with simple &lt;a&gt; tags.</p>",
@@ -404,11 +404,11 @@
           {
             "slug" : "clickable-prototypes",
             "name" : "Clickable Prototypes",
-            "assigned" : "2024-02-23",
-            "due" : "2024-02-28",
-            "hidden": true,
+            "assigned" : "2024-02-07",
+            "due" : "2024-02-26",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Create presentation-ready prototypes with enough interactive functionality to demonstrate a 'typical' path through the bike-finding process.</p>",
+            "description" : "<p>Create presentation-ready prototypes with enough interactive functionality to demonstrate possible paths through the bike-finding process.</p>",
             "instructions" : "<p>When your high-fidelity mockups are ready, add interactivity so we can walk through them in a plausible way. Don't worry about simulating every possible user interaction – focus on those interactions that guide us through the 'typical' experience and that point out key features, such as clicking a search bar and getting to the search results view, or clicking a thumbnail to get to a bike detail view.</p><p>You may also consider adding interaction to show key transient UI interactions such as a menu flyout, or expanded filter control.</p><p>Make sure your prototype is self-sufficient. In other words, make sure the rest of us can click through your prototype successfully without your input or explanation.</p>",
             "references" : [
             ]
