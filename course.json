@@ -336,18 +336,13 @@
           {
             "slug" : "lofi-wireframes-testing-notes",
             "name" : "Low-Fidelity Wireframes - Testing",
-            "assigned" : "2024-02-09",
-            "due" : "2024-02-14",
-            "hidden": true,
+            "assigned" : "2024-02-12",
+            "due" : "2024-02-12",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>In class we will break into pairs and test each others' wireframes against randomly-selected user-stories.</p><p>As the <strong><em>TESTER</em></strong>, you will select a persona and user-story, and describe what you are seeing/thinking as you attempt to complete the objective posed by that story. You will <em>not</em> provide evaluative feedback, you will <em>just describe what you are doing as you do it.</em></p><p>As the <strong><em>OBSERVER</em></strong>, you will observe and take notes. You will <em>not</em> describe your intent, explain what anything represents, provide any hints, etc. You will ONLY, if asked, describe the objective result of an action: e.g: 'Since you clicked on that button, you would now see the view represented in the second image.'</p><p>Our objective not to defend choices as the UX designer, nor evaluate them as the tester. Rather, we are attempting to provide/observe an unbiased, uninfluenced reaction to your wireframe, both good and bad.</p><p>The test will end when the tester either a) reports they have completed the objective, or b) reports they are unable to complete the objective. <em>After</em> the test is complete, you may converse briefly to ask questions or clarify misunderstandings.</p><p>We'll remain in pairs for 20 minutes, 10 minutes for each wireframe. Complete as many user-stories as you are able in that time. We'll then mix up our groups and test again, and again, for a total of three pairings.<p>",
+            "description" : "<p>In class we will break into pairs and test each others' wireframes against randomly-selected user-stories.</p><p>As the <strong><em>TESTER</em></strong>, you will select a persona and user-story, and describe what you are seeing/thinking as you attempt to complete the objective posed by that story. You will <em>not</em> provide evaluative feedback, you will <em>just describe what you are doing as you do it.</em></p><p>As the <strong><em>OBSERVER</em></strong>, you will observe and take notes. You will <em>not</em> describe your intent, explain what anything represents, provide any hints, etc. You will ONLY, if asked, describe the objective result of an action: e.g: 'Since you clicked on that button, you would now see the view represented in the second image.'</p><p>Our objective is not to defend choices as the UX designer, nor evaluate them as the tester. Rather, we are attempting to provide/observe an unbiased, uninfluenced reaction to your wireframe, both good and bad.</p><p>The test will end when the tester either a) reports they have completed the objective, or b) reports they are unable to complete the objective. <em>After</em> the test is complete, you may converse briefly to ask questions or clarify misunderstandings.</p><p>We'll remain in pairs for 20 minutes, 10 minutes for each wireframe. Complete as many user-stories as you are able in that time. We'll then mix up our groups and test again, and again, for a total of three pairings.<p>",
             "instructions" : "<p>Post an html document with your observations and feedback notes (or which links to same). Include your analysis of the raw findings: what are the takeaways for you?</p>",
             "references" : [
-              {
-                "name" : "QuickCycle Persona Collaboration",
-                "link" : "https://docs.google.com/document/d/1yrgExhI2z5P_RhQVAvqA7SeQ2gRJW8g502ho4ZuXuLA/edit?usp=sharing",
-                "description" : "Our persona / user-stories document for easy reference."
-              }
             ]
           },
           {
