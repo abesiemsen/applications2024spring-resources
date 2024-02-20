@@ -378,7 +378,7 @@
             "slug" : "visual-mockups",
             "name" : "Visual Mockups",
             "assigned" : "2024-02-07",
-            "due" : "2024-02-19",
+            "due" : "2024-02-26",
             "hidden": false,
             "file" : "index.html",
             "description" : "<p>Create mockups that present the decisions you made in wireframing, along with base style choices that make it presentation friendly.</p>",
