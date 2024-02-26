@@ -414,11 +414,23 @@
             ]
           },
           {
+            "slug" : "prototypes-testing-notes",
+            "name" : "Prototypes - Testing",
+            "assigned" : "2024-02-26",
+            "due" : "2024-02-28",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>As we did with wireframes, pair up in class to test each other's prototypes. Spend part of your time testing as we did before (user-story driven, no discussion, just observing what the tester does), then spend a little soliciting/providing feedback more traditionally. As before, we'll spend 20 minutes per pairing, and 3 pairings, for a total of about an hour.<p>",
+            "instructions" : "<p>Post an html document with your observations and feedback notes (or which links to same). Include a brief analysis of the raw findings: what are the takeaways for you?</p>",
+            "references" : [
+            ]
+          },
+          {
             "slug" : "final",
             "name" : "Final Presentation-Ready Prototype",
-            "assigned" : "2024-02-28",
-            "due" : "2024-03-02",
-            "hidden": true,
+            "assigned" : "2024-02-26",
+            "due" : "2024-03-06",
+            "hidden": false,
             "file" : "index.html",
             "description" : "<p>We're done making, now it's time to present. Prepare to give a short (5 min or less) walk-through of your prototype, pointing out key features and design choices. (Hint: well-applied conventions are a good design choices, don't short-change them!) Your presentation should address both functionality and style rationale. We'll have a guest reviewer on Wednesday to watch your presentations and provide feedback.</p>",
             "instructions" : "<p>Post a link to your final presentation-ready Figma or XD file.</p>",
