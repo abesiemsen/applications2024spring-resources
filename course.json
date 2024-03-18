@@ -440,79 +440,44 @@
         ]
       },
       {
-        "slug" : "free-apartment-promotion",
-        "name" : "Free Apartment Promotion",
-        "start" : "2018-02-21",
-        "end" : "2018-03-26",
-        "hidden": true,
-        "description" : "<p>Wish you had a posh pad this year, and didn't have to pay for it? Design a promotional sweepstakes in which one lucky winner gets free rent for a year!</p><p>A few things about the promotion you'll need to know:</p><ul><li>Client: <strong>E.Z. Properties, Inc.</strong></li><li>Promotion name: <strong>(To be determined by you)</strong></li><li>Prize: <strong>Winner recieves a rental contract with E.Z. Properties, Inc., with one year already paid.</strong></li><li>Eligibility: <strong>Open to Washington University students</strong></li><li>Entry Limitations: <strong>One entry per person.</strong></li><li>Starts: <strong>April 1, 2018</strong></li><li>Ends: <strong>June 1, 2018</strong></li><li>Prize drawing: <strong>June 7, 2018</strong></li><li>Winner announced: <strong>June 15, 2018</strong></li><li>Purpose: <strong>Gather contact info for use in email and social-media marketing of apartments to students.</strong></li></ul><p>What you ultimately deliver will be a prototype that is fully realized in HTML and CSS, but without any javascript or back-end programming to support it. We will design primarily for mobile-sized devices, but your prototype should have a reasonable strategy for responsive layout. Put another way, it should look its finest at mobile sizes, but should not break at any size.</p><p><strong>Project Objectives:</strong></p><ul><li>Recognize and balance competing stakeholder interests.</li><li>Design an experience, not just a layout.</li><li>Design for edge-cases, branching flows, conditional situtations.</li><li>Design feedback mechanisms such as form validation and error pages.</li><li>Practice HTML/CSS and responsive layout skills.</li></ul>",
+        "slug" : "soccer-league-app",
+        "name" : "Soccer League Application",
+        "start" : "2024-03-18",
+        "end" : "2024-04-24",
+        "hidden" : false,
+        "description" : "<p>A user's role in an application often controls their permissions – what they are allowed to see and do within the application. For instance: what a faculty member can see and do within Canvas is different than what a student can see and do.</p><p>Our second project this semester will provide an opportunity to explore how roles affect and inspire the behavior and presentation of an application. We will collaboratively plan and prototype an application for a youth soccer league. This application will have three different roles: players (and parents), coaches, and league administrators. Each role will likely have both distinct and overlapping objectives, features, and permissions.</p><p>Unlike the bike-finder, this project has a much broader landscape of opportunities for feature ideas and implementations. While we'll still concern ourselves with UI conventions and useful design patterns, we will also put more attention on innovation and creative problem solving.</p><p>We will divide the class into collaborative groups of three for this project. Each individual in a group will assume responsibility for a single user role. Put plainly, one of you will focus on player/parent needs perspectives, and ultimately design and implement features for that role. Another will focus on coach needs and perspectives, and the third will focus on the league administrator role. You woll work together with your groupmates to understand, ideate, plan, and coordinate responsibilities for features that 'cross' roles. You will work more independently on those aspects of the application that are specific to your role. You will also collaborate 'across groups' with your peers in other groups that share a role focus (e.g.: all the coach-oriented students meet to share ideas and insights).</p><p>The final deliverable for this project will again be a clickable prototype, but this time one which you've assembled with two other people.</p>",
+        "groups": [
+          {
+            "slug": "group-1",
+            "name": "Group 1",
+            "basePath": "#"
+          },
+          {
+            "slug": "group-2",
+            "name": "Group 2",
+            "basePath": "#"
+          },
+          {
+            "slug": "group-3",
+            "name": "Group 3",
+            "basePath": "#"
+          },
+          {
+            "slug": "group-4",
+            "name": "Group 4",
+            "basePath": "#"
+          }
+        ],
         "deliverables" : [
           {
-            "slug" : "flow-chart",
-            "name" : "Flow Chart",
-            "assigned" : "2018-02-21",
-            "due" : "2018-02-26",
+            "slug" : "data-model",
+            "name" : "Data Model",
+            "assigned" : "2024-03-18",
+            "due" : "2024-03-20",
             "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Create a process diagram (aka \"Flowchart\") to illustrate all possible user experiences within this simple promotional microsite.</p>",
-            "instructions" : "<p>Use whatever tools you like, but post the final product either as an image on an HTML page, or as a link pointing to a web-viewable document. Arrange things so that they are legible and clearly organized.</p>",
-            "references": [
-              {
-                "name" : "Flow Chart",
-                "link" : "http://en.wikipedia.org/wiki/Flowchart",
-                "description" : "This is what I mean by a flow chart."
-              },
-              {
-                "name" : "Google Doc: Happy Path",
-                "link" : "https://docs.google.com/document/d/1BNUfWYhfV_lXA0a4-JCTE9yql3curONFCszdsPJyMeU/edit?usp=sharing",
-                "description" : "The steps we expect/hope a person takes to complete the experience."
-              },
-              {
-                "name" : "Google Doc: What if...?",
-                "link" : "https://docs.google.com/document/d/1zfUKwjnQDwfafLCAh1GjBc0cgr7rKk7OJpJy1XKt07U/edit?usp=sharing",
-                "description" : "Our compiled list of possible situation's we'll need to address."
-              }
-            ]
-          },
-          {
-            "slug" : "content-document",
-            "name" : "Content Document",
-            "assigned" : "2018-02-21",
-            "due" : "2018-02-26",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Write the copy that a visitor will see as they experience your site. Consider what the site hopes to accomplish, as well as what the user needs in order to accomplish it. Write the actual words that will appear on the page. Be detailed and structured. Consider titles and headlines, body copy, labels, captions, error messages, button and menu names, etc., and make sure the document you create clearly delineates those things. Think of this as a reference document that another designer would use to build out the content this site.</p>",
-            "instructions" : "<p>Create this document in HTML. Use h1-h6 tags, p tags, ol, ul, li tags as semantically appropriate to create clear hierarchy. Don't worry about style, the style that your browser applies to these elements by default is fine.</p>"
-          },
-          {
-            "slug" : "style-reference",
-            "name" : "Style Reference",
-            "assigned" : "2018-02-26",
-            "due" : "2018-02-28",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Explore visual style options for the apartment promotion, and create a reference document that sets a clear visual direction. As with the content document, think of this as a document some other designer could use as a reference for your intentions. Build the reference you would want to receive.</p>",
-            "instructions" : "<p>The exact form of the reference is up to you (mood board, style tile, sample page, etc.), but post it as an image embedded on an HTML page. Better yet, post multiple iterations/versions using <code>deliverable.json</code>.</p>"
-          },
-          {
-            "slug" : "page-mockups",
-            "name" : "Page Mockups",
-            "assigned" : "2018-03-05",
-            "due" : "2018-03-12",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Design a complete set of pages for your site. A few things to consider:</p><ul><li><strong>Global elements.</strong> What carries over from page to page, what doesn't?</li><li><strong>Content.</strong> How effectively are you explaining what you want the user to do? How are you engaging them?</li><li><strong>Forms.</strong> Take the time to find examples of web forms that are well designed, and evaluate what makes them work. How can you arrange a form that is both functional and painless for the user? What instructions or other context must you provide? Also, what happens visually when the form must display a validation message?</li><li><strong>Completeness.</strong> Do your pages address all the scenarios modeled in your flowchart?</li></ul>",
-            "instructions" : "<p>Post the pages as images embedded on HTML pages. Link the pages together in sequence.</p><p>Alternatively, 'design in the browser' using HTML/CSS. For those more comfortable with these tools, this may well be a simpler and more efficient approach.</p><p><strong>Remember that the site must work at any size, but the mobile experience is our optimal target.</strong></p>"
-          },
-          {
-            "slug" : "html-prototype",
-            "name" : "HTML Prototype",
-            "assigned" : "2018-03-05",
-            "due" : "2018-03-26",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Based on your mockup, build the site with HTML, CSS, and Javascript as needed.</p>",
-            "instructions" : "<p>Make every link/button work in a way that allows us to experience the site completely. You don't need to do anything to actually save the data submitted on forms, but find a way to simulate the form submit experience, including the display of validation messages (e.g. 'Sorry, please enter a wustl email address.'). Also, find a way to simulate the experience in all three phases: before the promotion is open, while it's open, and after it's over.</p><p><strong>Remember that the site must work at any size, but the mobile experience is our optimal target.</strong></p>"
+            "file" : "proposal.pdf",
+            "description" : "test",
+            "instructions" : "test"
           }
         ]
       },
