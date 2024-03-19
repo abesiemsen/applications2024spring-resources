@@ -489,7 +489,7 @@
                 "description" : "Use this document to define entities and properties."
               },
               {
-                "name" : "Group 2 (Krissy, Katherine, Kristen ) Soccer League Data Model",
+                "name" : "Group 2 (Krissy, Katherine, Kristen) Soccer League Data Model",
                 "link" : "https://docs.google.com/spreadsheets/d/1WV8LxjCHHV5QFVCIAGHbHHsLS8tOrSe9tj45q2nKYyo/edit?usp=sharing",
                 "description" : "Use this document to define entities and properties."
               },
@@ -507,6 +507,16 @@
                 "name" : "Group 5 (Analise, Wenting, Ray) Soccer League Data Model",
                 "link" : "https://docs.google.com/spreadsheets/d/1s1JS1VdOvPfJnxXqmB_tHuLfA4hKvUrEbdyTnFecBLM/edit?usp=sharing",
                 "description" : "Use this document to define entities and properties."
+              },
+              {
+                "name" : "Session Video for Ray, part 1",
+                "link" : "https://wustl.zoom.us/rec/share/VKRtKBnmZAiQTnOZ1Zehd4w7qTeK4-P24JdrvxXIUL-b50BGQ2LB3NAA8JVpi5Y.R1oj8D1YUsGVbPMD",
+                "description" : "Ray, this video is the first part of the lesson: an exercise related to data organization and an introduction to the new project."
+              },
+              {
+                "name" : "Session Video for Ray, part 2",
+                "link" : "https://wustl.zoom.us/rec/share/GKlGWn_thZTi5s-7szSIWUplcaqaRW-BzIumCxz0I0QmN0HSkYjZcOAZkLn88O7u.-qyXRXrm0yuibBci",
+                "description" : "Ray, this second video is your first team meeting, and a second exercise aimed at generating feature ideas."
               }
             ]
           }
