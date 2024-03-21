@@ -526,10 +526,9 @@
             "assigned" : "2024-03-20",
             "due" : "2024-03-25",
             "hidden": false,
+            "file" : "index.html",
             "description" : "<p>As we discussed in class, we want go into interviews with a base level of knowledge about soccer, league sports, and the roles involved in both. What questions would you ask of people who fill those roles? How can you get them to share stories, insights, needs and perspectives? What topics do you want to make sure you cover with them? What research will you do ahead of time to prepare yourself?</p>",
-            "instructions" : "Create a google doc in which you collect your plans and preparation for interviews. Upload an HTML document that links to your google doc (similar to the way you posted links to your figma files for the bike finder).",
-            "references" : [
-            ]
+            "instructions" : "Create a google doc in which you collect your plans and preparation for interviews. Upload an HTML document that links to your google doc (similar to the way you posted links to your figma files for the bike finder)."
           }
         ]
       },
