@@ -541,221 +541,55 @@
                 "description" : "This document was created by the admin group as they branstormed around the interview process."
               }
             ]
-          }
-        ]
-      },
-      {
-        "slug" : "configurator",
-        "name" : "Configurator",
-        "start" : "2024-03-18",
-        "end" : "2024-04-24",
-        "hidden": true,
-        "description" : "<p>If you've ordered Pizza online, you know what a 'configurator' is &mdash; the interface by which you step through the various choices/options available to 'customize' something you want to describe. Thin-crust or deep dish, light cheese or heavy, Which meats? Which veggies?</p><p>In this project, you will design a configurator interface &mdash; but the object being configured is up to you. Could be pizza if you like, but could also be something like an airline ticket. The choice is yours... within some parameters:</p><ul><li>The item being configured must have a finite set of pre-defined options that can be clearly articulated and easily understood.</li><li>Completion of the user-experience should be possible in no more than 3&ndash;5 steps.</li><li>The item must be commonly understood, requiring only a minimum of 'education' in order to configure.</li><li>Abe must approve it. :)</li></ul><p>This project does not have a defined final deliverable, other than to say the finished product of your work should easily allow anybody to simulate the configuration process. You may choose to actually build and program the configurator in html/css/js, you may choose to build a clickable prototype, you may choose to only provide a series of mockups. You should, however, play to your strengths. Decide on a topic and a final deliverable that showcases your abilities, and maximizes the value of the time you spend.</p><p>What will I be looking for? Research. Clarity of problem/purpose. An understanding of your audience. Ease of use. Evidence of a strong work ethic. A self-sufficient end-product. Reasoned UX choices. Transparently usable and accessible UI. Ultimately, that it shows well!</p>",
-        "deliverables" : [
-          {
-            "slug" : "proposal",
-            "name" : "Proposal",
-            "assigned" : "2024-03-07",
-            "due" : "2024-03-09",
-            "hidden": true,
-            "file" : "proposal.pdf",
-            "description" : "<p>Write a proposal indicating the object or experience you intend to configure and how it is configurable. Explain <em>your</em> current understanding of the need, then describe how you intend to research, understand, and document the <em>users'</em> needs. Describe the kind of final deliverable you expect to create, and how that deliverable plays to your strengths. Enumerate what you expect to be able to show as progress in each class session between today and the final day of class.</p><p>Think of this proposal itself as a reference document you are creating. It describes the need, the scope of your intentions, and your plan for implementation. In reality it will be a reference for you and me, but treat it like a self-sufficient document: if you were to hand it to somebody without explanation or context, they should be able to understand what you plan to do, why, and how.</p><p>Finally, consider what <em>you</em> will need to include in this document in order to make it be a useful reference as we progress through the project.",
-            "instructions" : "<p><strong>Upload your proposal as a PDF.</strong> We will refer to it as we check progress through this project. I don't expect you to meet every goal you set perfectly, but I will expect you to meet me each week with either a met objective, or a revised plan.</p>"
           },
           {
-            "slug" : "options",
-            "name" : "Flow Chart and/or Options Lists",
-            "assigned" : "2018-03-28",
-            "due" : "2018-04-01",
-            "hidden": true,
+            "slug" : "observation-session",
+            "name" : "Go to a game (optional) or do online research.",
+            "assigned" : "2024-03-27",
+            "due" : "2024-04-01",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Create a reference document that walks us through the specific configuration options of your object 'on paper'.</p>",
-            "instructions" : "<p>The document may be visual or textual, but should clearly communicate what the configuration steps are, and what options are available at each step. Be specific. It is not sufficient to use placeholder values. Upload the document as HTML. If you build a visual flowchart, embed it as an image.</p>"
-          },
-          {
-            "slug" : "step-1",
-            "name" : "Step 1",
-            "assigned" : "2024-03-09",
-            "due" : "2024-03-21",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
+            "description" : "<p><strong>WE WILL NOT HAVE A CLASS SESSION ON THIS DAY.</strong></p><p>Inastead, if you can, come to a game in person! Wednesday, March 27, at 5 p.m. The game is on Emerson Central Field 2 (in Forest Park). What interactions do you observe? What challenges to you see? What ideas do you have? Put your thoughts and ideas together, and post them.</p><p>Alternatively, do research on your own, and spend time developing ideas for what this app could/should be.</p>",
+            "instructions" : "Upload an HTML document that contains or links to your observation/research notes.",
             "references": [
               {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
+                "name" : "Emerson Central Fields in Forest Park",
+                "link" : "https://maps.app.goo.gl/8MKW3MKVafe4A7QN6",
+                "description" : "This is a google maps link."
               }
             ]
           },
           {
-            "slug" : "step-2",
-            "name" : "Step 2",
-            "assigned" : "2024-03-21",
-            "due" : "2024-03-23",
-            "hidden": true,
+            "slug" : "interview-noah",
+            "name" : "Interview - Noah Siemsen",
+            "assigned" : "2024-04-01",
+            "due" : "2024-04-03",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
+            "description" : "<p><strong>THIS CLASS SESSION WILL BE HELD VIA ZOOM, LINK BELOW.</strong></p><p>We will interview my brother Noah Siemsen, who coaches soccer and is involved in managing his local league. As a bonus we may also get his wife Celeste (who is very involved as a parent), and his son Miles (a HS senior who plays).</p>",
+            "instructions" : "Upload an HTML document that contains or links to your notes from the interview.",
             "references": [
               {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
+                "name" : "Zoom session link",
+                "link" : "",
+                "description" : "Join the interview!"
               }
             ]
           },
           {
-            "slug" : "step-3",
-            "name" : "Step 3",
-            "assigned" : "2024-03-23",
-            "due" : "2024-03-28",
-            "hidden": true,
+            "slug" : "interview-allison",
+            "name" : "Interview - Allison Cousins",
+            "assigned" : "2024-04-03",
+            "due" : "2024-04-03",
+            "hidden": false,
             "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
+            "description" : "<p><strong>THIS CLASS SESSION WILL BE HELD VIA ZOOM, LINK BELOW.</strong></p><p>We will interview Allison Cousins, founder and Commissioner of <a href=\"https://stlcityleague.com/\">City League</a>. City League, which facilitates youth sports and extracurriculars for schools in St. Louis City.</p>",
+            "instructions" : "Upload an HTML document that contains or links to your notes from the interview.",
             "references": [
               {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "step-4",
-            "name" : "Step 4",
-            "assigned" : "2024-03-28",
-            "due" : "2024-03-30",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
-            "references": [
-              {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "step-5",
-            "name" : "Step 5",
-            "assigned" : "2024-03-30",
-            "due" : "2024-04-04",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
-            "references": [
-              {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "step-6",
-            "name" : "Step 6",
-            "assigned" : "2024-04-04",
-            "due" : "2024-04-06",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
-            "references": [
-              {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "step-7",
-            "name" : "Step 7",
-            "assigned" : "2024-04-06",
-            "due" : "2024-04-11",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
-            "references": [
-              {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "step-8",
-            "name" : "Step 8",
-            "assigned" : "2024-04-11",
-            "due" : "2024-04-13",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
-            "references": [
-              {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "step-9",
-            "name" : "Step 9",
-            "assigned" : "2024-04-13",
-            "due" : "2024-04-18",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
-            "references": [
-              {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "step-10",
-            "name" : "Step 10",
-            "assigned" : "2024-04-18",
-            "due" : "2024-04-20",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>Since you each have a unique proposal with its own timeline, this deliverable is for you to use as needed.</p>",
-            "instructions" : "<p>Upload progress per your proposal.</p>",
-            "references": [
-              {
-                "name" : "Weekly meeting schedule",
-                "link" : "https://docs.google.com/spreadsheets/d/1AHWvWgJi56YirIMzaU4-vx9C6vKu8r1XmR7M3jSmJ-g/edit?usp=sharing",
-                "description" : "Plan to meet with Abe based on this schedule."
-              }
-            ]
-          },
-          {
-            "slug" : "final",
-            "name" : "Final",
-            "assigned" : "2024-04-25",
-            "due" : "2024-04-27",
-            "hidden": true,
-            "file" : "index.html",
-            "description" : "<p>We have reached the end of the line!</p>",
-            "instructions" : "<p>Upload your final work (or a link to it). Then, fill out the course evaluation form!</p>",
-            "references": [
-              {
-                "name" : "Course Evaluation",
-                "link" : "https://evals.wustl.edu/",
-                "description" : "Your feedback is extremely helpful to me, and I greatly appreciate it! Answers are anonymous, and I don't see any feedback until after I've submitted your grades."
+                "name" : "Zoom session link",
+                "link" : "https://wustl.zoom.us/j/97088672137?pwd=ckczTXJZM3lINmZxNmkyeUlUNWs1UT09",
+                "description" : "Join the interview!"
               }
             ]
           }
