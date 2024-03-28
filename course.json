@@ -560,30 +560,13 @@
             ]
           },
           {
-            "slug" : "interview-noah",
-            "name" : "Interview - Noah Siemsen",
+            "slug" : "interview-combined",
+            "name" : "Interview",
             "assigned" : "2024-04-01",
             "due" : "2024-04-03",
             "hidden": false,
             "file" : "index.html",
-            "description" : "<p><strong>THIS CLASS SESSION WILL BE HELD VIA ZOOM, LINK BELOW.</strong></p><p>We will interview my brother Noah Siemsen, who coaches soccer and is involved in managing his local league. As a bonus we may also get his wife Celeste (who is very involved as a parent), and his son Miles (a HS senior who plays).</p>",
-            "instructions" : "Upload an HTML document that contains or links to your notes from the interview.",
-            "references": [
-              {
-                "name" : "Zoom session link",
-                "link" : "",
-                "description" : "Join the interview!"
-              }
-            ]
-          },
-          {
-            "slug" : "interview-allison",
-            "name" : "Interview - Allison Cousins",
-            "assigned" : "2024-04-03",
-            "due" : "2024-04-08",
-            "hidden": false,
-            "file" : "index.html",
-            "description" : "<p><strong>THIS CLASS SESSION WILL BE HELD VIA ZOOM, LINK BELOW.</strong></p><p>We will interview Allison Cousins, founder and Commissioner of <a href=\"https://stlcityleague.com/\">City League</a>. City League, which facilitates youth sports and extracurriculars for schools in St. Louis City.</p>",
+            "description" : "<p><strong>CLASS ON APRIL 1st WILL BE HELD VIA ZOOM, LINK BELOW.</strong></p><p>We will have a combined interview with Allison Cousins, Noah Siemsen, and possibly Celeste and Miles Siemsen.</p><p>Allison Cousins is founder and Commissioner of <a href=\"https://stlcityleague.com/\">City League</a>, which facilitates youth sports and extracurriculars for schools in St. Louis City. Allison is also CEO of <a href=\"https://approachdating.com/\">Approach Dating</a>, a St. Louis Tech Startup.</p><p>Noah Siemsen manages the <a href=\"https://www.fairfield.iowa.soccer/\">Fairfield Area Soccer Association</a> in Fairfield, IA. Noah also coaches, and his wife Celeste embodies the role of 'soccer mom' as their sons Miles and Oliver are both enthusiastic and dedicated players. Noah is also COO at <a href=\"https://www.iphonelife.com/\">iPhoneLife</a>, an online educational resource for Apple products.</p>",
             "instructions" : "Upload an HTML document that contains or links to your notes from the interview.",
             "references": [
               {
