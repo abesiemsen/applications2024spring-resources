@@ -586,11 +586,6 @@
             "description" : "<p>Work with your group (and individually as needed) to decide on and define the app you intend to pitch. Create a document that includes the following:</p><ol><li>The name of the app.</li><li>The primary problem the app is intended to address.</li><li>A short summary of the inspiration for the idea, and key evidence (observations, insights, interview notes, etc.) supporting the concept.</li><li>A very high-level overview of how the app will work. Not more than a few sentences.</li><li>A list of the key systems, features, and/or components the app will need to include in order to accomplish it's goal.</li><li>A summary of the responsibilities and/or benefits for each role.</li><li>An overview of permissions for each role (who gets to do what).</li><li>A list of the entities/data the app is likely to need to be aware in order to accomplish its goal.</li><li>A list of the most significant challenges you think the app would need to address in order to be successful.</li></ol>",
             "instructions" : "Upload an HTML document that contains or links to a document that describes the items above. Everybody in your group may link to the same document.",
             "references": [
-              {
-                "name" : "Zoom session link",
-                "link" : "https://wustl.zoom.us/j/97088672137?pwd=ckczTXJZM3lINmZxNmkyeUlUNWs1UT09",
-                "description" : "Join the interview!"
-              }
             ]
           }
         ]
