@@ -587,6 +587,26 @@
             "instructions" : "Upload an HTML document that contains or links to a document that describes the items above. Everybody in your group may link to the same document.",
             "references": [
             ]
+          },
+          {
+            "slug" : "presentation-outline",
+            "name" : " Presentation Outline",
+            "assigned" : "2024-04-08",
+            "due" : "2024-04-10",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>Work with your group to document a sequence / outline for your final presentation, in whatever form works best for you: Google Doc, slide deck, Figma, etc. What slides will exist? What will the cover/include? In what order?</p>",
+            "instructions" : "<p>Post a link to the document you create.</p>"
+          },
+          {
+            "slug" : "final presentation",
+            "name" : "Final Presentation",
+            "assigned" : "2024-04-08",
+            "due" : "2024-04-24",
+            "hidden": false,
+            "file" : "index.html",
+            "description" : "<p>(Details to come, but I'm posting this so there's no confusion about when final presentations will occur!</p>",
+            "instructions" : "<p>Present your app concept to the class.</p>"
           }
         ]
       }
