@@ -599,6 +599,22 @@
             "instructions" : "<p>Post a link to the document you create.</p>"
           },
           {
+            "slug" : "course-evaluation",
+            "name" : " Course Evaluation",
+            "assigned" : "2024-04-22",
+            "due" : "2024-04-24",
+            "hidden": false,
+            "description" : "<p>Your honest feedback about this course is useful to me, and very much appreciated!</p>",
+            "instructions" : "<p>Please fill out your course evaluation at the link below.</p>",
+            "references": [
+              {
+                "name" : "Course Evaluations",
+                "link" : "https://evals.wustl.edu/",
+                "description" : "Standard course evaluation link for WashU students."
+              }
+            ]
+          },
+          {
             "slug" : "final presentation",
             "name" : "Final Presentation",
             "assigned" : "2024-04-08",
